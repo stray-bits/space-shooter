@@ -25,6 +25,6 @@ cmake --build .
 * CMake
 
 ## Authors
-Alisha Ahmad
+Alisha Ahmad,
 Faiza Malik
 
