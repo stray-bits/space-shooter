@@ -1,0 +1,13 @@
+build/
+bin/
+.vscode/
+
+*.exe
+*.dll
+*.o
+*.obj
+*.lib
+
+CMakeCache.txt
+CMakeFiles/
+c

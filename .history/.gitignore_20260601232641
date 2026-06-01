@@ -1,0 +1,16 @@
+build/
+bin/
+.vscode/
+
+*.exe
+*.dll
+*.o
+*.obj
+*.lib
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+highscore.txt
